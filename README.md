@@ -4,10 +4,10 @@ CMPT 318 Group Project - Spring 2024
 
 ## Group Members
 
-Layan Barrieshee
-Nathan Young
-Anne Jiao
-Kevin Tian
+Layan<br>
+Nathan<br>
+Annie<br>
+Kevin
 
 ## Project Overview
 
